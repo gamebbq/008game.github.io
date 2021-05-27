@@ -1,9 +1,12 @@
 # 008game.github.io
 
-<li> <a href="https://apps.apple.com/cn/developer/liu-chongjing/id606808456">文刀山宗的部分独立游戏..</a> </li>
+<li> <a href="https://apps.apple.com/cn/developer/liu-chongjing/id606808456">..OoOoOoOoOoOoOoOoOo..</a> </li>
 <br>
 
-<li> enmmmm~ Maybe you could buy me a cup of coffee~</li> 
+<li>Thank you GitHub! Welcome to leave a message! </li>
+<br>
+
+<li> enmmmm~ Maybe you could buy me a cup of coffee~ <strong>(Please leave your game ID..)</strong></li> 
 <br>
 
 <code>ETH Wallet</code>
