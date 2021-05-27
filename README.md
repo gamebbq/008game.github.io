@@ -6,15 +6,12 @@
 <li> enmmmm~ Maybe you could buy me a cup of coffee~</li> 
 <br>
 
-<li> ETH Wallet </li> 
-
+<code>ETH Wallet</code>
   0xB6244c7cd242950F28819402B8223Fddf1159159
   
-<li> EOS Wallet </li> 
-  
+<code>EOS Wallet</code>
   games.q
   
-<li> BSC Wallet </li> 
-
+<code>BSC Wallet</code>
   0x2C1fdb47CBB0be917D6FACAF973f65e3946f985B 
 
